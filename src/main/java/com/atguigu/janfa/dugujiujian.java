@@ -9,6 +9,7 @@ public class dugujiujian {
         System.out.println(" 你太善良");
         System.out.println(" 你太善良");
         System.out.println(" 你太善良");
+        System.out.println(" 你太善良");
 
     }
 }
